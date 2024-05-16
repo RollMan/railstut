@@ -48,3 +48,4 @@ docker-compose run web rake db:create
 
 ## Reference
 - https://docs.docker.jp/compose/rails.html
+- https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/rails/
